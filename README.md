@@ -38,7 +38,8 @@ As tabelas incluem:
 
 As duas tabelas foram conectadas através do **ID do Cliente**.
 
-*(inserir imagem da modelagem caso deseje)*
+<img width="1035" height="407" alt="image" src="https://github.com/user-attachments/assets/c4b779f6-4d18-4eb4-a0be-d6dcbb128a8b" />
+
 
 ---
 
@@ -54,13 +55,16 @@ Foram criados parâmetros para permitir que o usuário navegue entre diferentes 
 
 Os filtros afetam toda a página dinamicamente.
 
-*(inserir imagens dos botões / navegação)*
+<img width="773" height="34" alt="image" src="https://github.com/user-attachments/assets/913ec59f-b1bc-4504-a2b1-78505fcaba33" />
+
 
 ---
 
 ## 🧮 Transformações realizadas (DAX)
 
 Foi criada uma coluna separando **Cidade** e **Estado** a partir do endereço, permitindo filtros geográficos.
+
+<img width="672" height="131" alt="image" src="https://github.com/user-attachments/assets/d02d7c87-a725-4cab-b941-99182d77b9ef" />
 
 ---
 
