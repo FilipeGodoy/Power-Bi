@@ -97,7 +97,10 @@ Incluídos filtros para:
 
 ---
 
+## 🚀 Anexei também um BI chamado "PowerBI_Estágio de PerformanceV2.pbix" que ajudei um amigo a conseguir um Estágio no Red Bull Bragantino.
+
 ## 📬 Contato
 
 Autor: **Filipe Godoy**  
+19 995303113
 Este é meu primeiro repositório no GitHub 🚀  
